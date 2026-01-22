@@ -66,6 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/charbelmrad/charbelmrad/output/snake.svg" alt="Snake animation" />
 
-###
+
+
