@@ -56,15 +56,7 @@
 
 <img align="right" height="193" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MW15a2pjd296aXp5c3hoNmlpYnlxc3ZybHI0aGEzZWQ2YjBoM3pkMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gDPxwdP6SKFnsWDJ2u/giphy.gif"  />
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/charbelmrad" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="43" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 
 
