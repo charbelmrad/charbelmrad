@@ -1,45 +1,49 @@
+<h1 align="center">Charbel Mrad</h1>
+
+###
+
+<h2 align="center">Computer & Systems Engineering student</h2>
+
+###
+
 <div align="center">
-
-# Charbel
-
-Computer & Communications Engineering student focused on offensive security — pentesting, vulnerability assessment, and network defense.
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="52" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="52" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="52" alt="bootstrap logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="52" alt="cplusplus logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" alt="css logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="52" alt="express logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="52" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" alt="github logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="git logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" alt="java logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="52" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="52" alt="matlab logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="52" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="52" alt="photoshop logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="python logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="52" alt="redhat logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="52" alt="illustrator logo"  />
 </div>
 
-<br>
-
-## Focus
-
-| Area | Stack |
-|---|---|
-| Security | `Pentesting` `Vulnerability Assessment` `Network Defense` |
-| Systems | `Windows Server` `Active Directory` `Linux` |
-| Tools | `Wireshark` `Git` `Python` `Bash` |
-
-<br>
-
-## Current
-
-- Preparing for a cybersecurity internship — pentesting, risk assessments, compliance audits
-- Certification track: `eJPT` → `Security+` → `BTL1`
-- Building a Network Intrusion Detection System (NIDS) with a small team
-- Placed top 2% in a CTF competition
-
-<br>
-
-## Stack
-
-<img src="https://skillicons.dev/icons?i=windows,linux,python,bash,git,github,wireshark&theme=dark" height="40" />
-
-<br>
-
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&hide_title=true&theme=transparent&text_color=333&icon_color=555" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&hide_title=true&theme=transparent&text_color=333" height="165" />
-
-<br>
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/your-linkedin) · [Email](mailto:your-email@example.com)
+###
