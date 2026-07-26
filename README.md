@@ -1,49 +1,76 @@
-<h1 align="center">Charbel Mrad</h1>
-
-###
-
-<h2 align="center">Computer & Systems Engineering student</h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="52" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="52" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="52" alt="bootstrap logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="52" alt="cplusplus logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" alt="css logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="52" alt="express logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="52" alt="figma logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" alt="github logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="git logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" alt="java logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="52" alt="linux logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="52" alt="matlab logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="52" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="52" alt="photoshop logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="python logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="52" alt="redhat logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="52" alt="illustrator logo"  />
+
+# CHARBEL MRAD
+
+<sub>4th Year • Computer &amp; Communications Engineering (Systems Eng.) @ Antonine University</sub>
+
 </div>
 
-###
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td valign="top">
+
+** Location**
+Lebanon
+
+** Education**
+Antonine University — CCE, Systems Engineering Track
+4th Year
+
+** Currently Focused On**
+Cybersecurity — Pentesting &amp; WebSec
+
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+###  Stack &amp; Tools
+
+<img src="https://img.shields.io/badge/Java-12141c?style=flat-square&logo=openjdk&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/Python-12141c?style=flat-square&logo=python&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/C-12141c?style=flat-square&logo=c&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/ARM_Assembly-12141c?style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-12141c?style=flat-square&logo=javascript&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/HTML5-12141c?style=flat-square&logo=html5&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/CSS3-12141c?style=flat-square&logo=css3&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/SQL-12141c?style=flat-square&logo=mysql&logoColor=9aa6b2" />
+<br>
+<img src="https://img.shields.io/badge/Wireshark-12141c?style=flat-square&logo=wireshark&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/Nmap-12141c?style=flat-square" />
+<img src="https://img.shields.io/badge/Burp_Suite-12141c?style=flat-square" />
+<br>
+<img src="https://img.shields.io/badge/Git-12141c?style=flat-square&logo=git&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/GitHub-12141c?style=flat-square&logo=github&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/Linux-12141c?style=flat-square&logo=linux&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/Windows_Server-12141c?style=flat-square&logo=windows&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/VMware-12141c?style=flat-square&logo=vmware&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/PowerShell-12141c?style=flat-square&logo=powershell&logoColor=9aa6b2" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=charbelmrad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2&icon_color=9aa6b2" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=charbelmrad&theme=tokyonight&hide_border=true&background=0D1117&ring=9aa6b2&fire=9aa6b2" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charbelmrad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9aa6b2&line=9aa6b2&point=ffffff" width="97%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/Gmail-12141c?style=flat-square&logo=gmail&logoColor=9aa6b2" />](mailto:charbel.mrad.365@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-12141c?style=flat-square&logo=linkedin&logoColor=9aa6b2" />](https://www.linkedin.com/in/charbelmrad)
+
+</div>
