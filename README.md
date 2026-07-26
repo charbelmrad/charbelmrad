@@ -47,11 +47,13 @@ Cybersecurity — Pentesting &amp; WebSec
 <img src="https://img.shields.io/badge/SQL-12141c?style=for-the-badge&logo=mysql&logoColor=9aa6b2" />
 
 <br><br>
+
 <img src="https://img.shields.io/badge/Wireshark-12141c?style=for-the-badge&logo=wireshark&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Nmap-12141c?style=for-the-badge" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Burp_Suite-12141c?style=for-the-badge" />
 
 <br><br>
+
 <img src="https://img.shields.io/badge/Git-12141c?style=for-the-badge&logo=git&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub-12141c?style=for-the-badge&logo=github&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Linux-12141c?style=for-the-badge&logo=linux&logoColor=9aa6b2" />&nbsp;&nbsp;
