@@ -6,15 +6,15 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2200&color=B0B8C1&center=true&vCenter=true&width=600&height=28&lines=%F0%9F%93%8D+Location+%E2%80%94+Lebanon&repeat=false" alt="location" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2200&color=B0B8C1&center=true&vCenter=true&width=600&height=28&lines=Location+%E2%80%94+Lebanon&repeat=false" alt="location" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2600&delay=2200&color=B0B8C1&center=true&vCenter=true&width=600&height=28&lines=%F0%9F%8E%93+Antonine+University+%E2%80%94+CCE%2C+Systems+Eng.+(4th+Year)&repeat=false" alt="education" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2600&delay=2200&color=B0B8C1&center=true&vCenter=true&width=600&height=28&lines=Antonine+University+%E2%80%94+CCE%2C+Systems+Eng.+(4th+Year)&repeat=false" alt="education" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2400&delay=4800&color=B0B8C1&center=true&vCenter=true&width=600&height=28&lines=%F0%9F%8E%AF+Focused+On+%E2%80%94+Cybersecurity%3A+Pentesting+%26+WebSec&repeat=false" alt="focus" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2400&delay=4800&color=B0B8C1&center=true&vCenter=true&width=600&height=28&lines=Focused+On+%E2%80%94+Cybersecurity%3A+Pentesting+%26+WebSec&repeat=false" alt="focus" />
 
 </div>
 
