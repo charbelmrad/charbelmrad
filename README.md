@@ -1,16 +1,16 @@
 <div align="center">
 
-# CHARBEL MRAD
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=42&duration=2800&pause=1200&color=9AA6B2&center=true&vCenter=true&width=650&height=60&lines=CHARBEL+MRAD" alt="name" />
 
-<sub>4th Year • Computer &amp; Communications Engineering (Systems Eng.) @ Antonine University</sub>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=16&duration=3200&pause=1400&color=767F8C&center=true&vCenter=true&width=650&height=30&lines=4th+Year+%E2%80%A2+Computer+%26+Communications+Engineering;Systems+Engineering+%40+Antonine+University" alt="subtitle" />
 
 </div>
 
-<br>
+<hr>
 
 <table align="center" width="100%">
 <tr>
-<td valign="top">
+<td valign="top" width="55%">
 
 Location
 Lebanon
@@ -22,40 +22,48 @@ Antonine University — CCE, Systems Engineering Track
 Currently Focused On
 Cybersecurity — Pentesting &amp; WebSec
 
+</td>
+<td align="center" width="45%">
+
+<img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="320" />
 
 </td>
 </tr>
 </table>
 
-<br>
+<hr>
 
 <div align="center">
 
 ###  Stack &amp; Tools
 
-<img src="https://img.shields.io/badge/Java-12141c?style=flat-square&logo=openjdk&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/Python-12141c?style=flat-square&logo=python&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/C-12141c?style=flat-square&logo=c&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/ARM_Assembly-12141c?style=flat-square" />
-<img src="https://img.shields.io/badge/JavaScript-12141c?style=flat-square&logo=javascript&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/HTML5-12141c?style=flat-square&logo=html5&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/CSS3-12141c?style=flat-square&logo=css3&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/SQL-12141c?style=flat-square&logo=mysql&logoColor=9aa6b2" />
-<br>
-<img src="https://img.shields.io/badge/Wireshark-12141c?style=flat-square&logo=wireshark&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/Nmap-12141c?style=flat-square" />
-<img src="https://img.shields.io/badge/Burp_Suite-12141c?style=flat-square" />
-<br>
-<img src="https://img.shields.io/badge/Git-12141c?style=flat-square&logo=git&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/GitHub-12141c?style=flat-square&logo=github&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/Linux-12141c?style=flat-square&logo=linux&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/Windows_Server-12141c?style=flat-square&logo=windows&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/VMware-12141c?style=flat-square&logo=vmware&logoColor=9aa6b2" />
-<img src="https://img.shields.io/badge/PowerShell-12141c?style=flat-square&logo=powershell&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/Java-12141c?style=for-the-badge&logo=openjdk&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-12141c?style=for-the-badge&logo=python&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C-12141c?style=for-the-badge&logo=c&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ARM_Assembly-12141c?style=for-the-badge" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-12141c?style=for-the-badge&logo=javascript&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-12141c?style=for-the-badge&logo=html5&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-12141c?style=for-the-badge&logo=css3&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL-12141c?style=for-the-badge&logo=mysql&logoColor=9aa6b2" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Wireshark-12141c?style=for-the-badge&logo=wireshark&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nmap-12141c?style=for-the-badge" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Burp_Suite-12141c?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-12141c?style=for-the-badge&logo=git&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-12141c?style=for-the-badge&logo=github&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-12141c?style=for-the-badge&logo=linux&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Windows_Server-12141c?style=for-the-badge&logo=windows&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VMware-12141c?style=for-the-badge&logo=vmware&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-12141c?style=for-the-badge&logo=powershell&logoColor=9aa6b2" />
 
 </div>
 
-<br>
+<hr>
 
 <div align="center">
 
@@ -66,11 +74,11 @@ Cybersecurity — Pentesting &amp; WebSec
 
 </div>
 
-<br>
+<hr>
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/Gmail-12141c?style=flat-square&logo=gmail&logoColor=9aa6b2" />](mailto:charbel.mrad.365@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-12141c?style=flat-square&logo=linkedin&logoColor=9aa6b2" />](https://www.linkedin.com/in/charbelmrad)
+[<img src="https://img.shields.io/badge/Gmail-12141c?style=for-the-badge&logo=gmail&logoColor=9aa6b2" />](mailto:charbel.mrad.365@gmail.com)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-12141c?style=for-the-badge&logo=linkedin&logoColor=9aa6b2" />](https://www.linkedin.com/in/charbelmrad)
 
 </div>
