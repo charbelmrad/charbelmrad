@@ -12,14 +12,14 @@
 <tr>
 <td valign="top">
 
-** Location**
+Location
 Lebanon
 
-** Education**
+Education
 Antonine University — CCE, Systems Engineering Track
 4th Year
 
-** Currently Focused On**
+Currently Focused On
 Cybersecurity — Pentesting &amp; WebSec
 
 
