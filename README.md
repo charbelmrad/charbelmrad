@@ -4,32 +4,19 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=16&duration=3200&pause=1400&color=767F8C&center=true&vCenter=true&width=650&height=30&lines=4th+Year+%E2%80%A2+Computer+%26+Communications+Engineering;Systems+Engineering+%40+Antonine+University" alt="subtitle" />
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2200&color=B0B8C1&center=true&vCenter=true&width=600&height=28&lines=%F0%9F%93%8D+Location+%E2%80%94+Lebanon&repeat=false" alt="location" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2600&delay=2200&color=B0B8C1&center=true&vCenter=true&width=600&height=28&lines=%F0%9F%8E%93+Antonine+University+%E2%80%94+CCE%2C+Systems+Eng.+(4th+Year)&repeat=false" alt="education" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2400&delay=4800&color=B0B8C1&center=true&vCenter=true&width=600&height=28&lines=%F0%9F%8E%AF+Focused+On+%E2%80%94+Cybersecurity%3A+Pentesting+%26+WebSec&repeat=false" alt="focus" />
+
 </div>
-
-<hr>
-
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="55%">
-
-Location
-Lebanon
-
-Education
-Antonine University — CCE, Systems Engineering Track
-4th Year
-
-Currently Focused On
-Cybersecurity — Pentesting &amp; WebSec
-
-</td>
-<td align="center" width="45%">
-
-<img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="320" />
-
-</td>
-</tr>
-</table>
 
 <hr>
 
