@@ -26,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/Java-12141c?style=for-the-badge&logo=openjdk&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-12141c?style=for-the-badge&logo=python&logoColor=9aa6b2" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C-12141c?style=for-the-badge&logo=c&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C++-12141c?style=for-the-badge&logo=c&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ARM_Assembly-12141c?style=for-the-badge" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-12141c?style=for-the-badge&logo=javascript&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML5-12141c?style=for-the-badge&logo=html5&logoColor=9aa6b2" />&nbsp;&nbsp;
