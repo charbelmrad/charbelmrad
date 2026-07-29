@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/HTML5-12141c?style=for-the-badge&logo=html5&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-12141c?style=for-the-badge&logo=css3&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-12141c?style=for-the-badge&logo=mysql&logoColor=9aa6b2" />
+<img src="https://img.shields.io/badge/JavaFX-12141c?style=for-the-badge&logo=java&logoColor=9aa6b2" />
 
 <br><br>
 
