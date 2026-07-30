@@ -39,6 +39,8 @@
 <img src="https://img.shields.io/badge/Wireshark-12141c?style=for-the-badge&logo=wireshark&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Nmap-12141c?style=for-the-badge" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Burp_Suite-12141c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/John_the_Ripper-12141c?style=for-the-badge&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/sqlmap-12141c?style=for-the-badge&logoColor=9aa6b2" />
 
 <br><br>
 
