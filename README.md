@@ -39,7 +39,6 @@
 <img src="https://img.shields.io/badge/Wireshark-12141c?style=for-the-badge&logo=wireshark&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Nmap-12141c?style=for-the-badge" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Burp_Suite-12141c?style=for-the-badge" />
-<img src="https://img.shields.io/badge/sqlmap-12141c?style=for-the-badge&logoColor=9aa6b2" />
 <img src="https://img.shields.io/badge/Wazuh-12141c?style=for-the-badge&logo=wazuh&logoColor=9aa6b2" /> <img src="https://img.shields.io/badge/Trellix-12141c?style=for-the-badge&logo=trellix&logoColor=9aa6b2" /> <img src="https://img.shields.io/badge/Forcepoint-12141c?style=for-the-badge&logo=forcepoint&logoColor=9aa6b2" />
 
 <br><br>
