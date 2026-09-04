@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2400&delay=4800&color=B0B8C1&center=true&vCenter=true&width=600&height=28&lines=Focused+On+%E2%80%94+Cybersecurity%3A+Pentesting+%26+WebSec&repeat=false" alt="focus" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2400&delay=4800&color=B0B8C1&center=true&vCenter=true&width=600&height=28&lines=Focused+On+%E2%80%94+Cybersecurity%3A+SOC&repeat=false" alt="focus" />
 
 </div>
 
