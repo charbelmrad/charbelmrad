@@ -47,6 +47,7 @@
 
 <img src="https://img.shields.io/badge/GitHub-12141c?style=for-the-badge&logo=github&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Linux-12141c?style=for-the-badge&logo=linux&logoColor=9aa6b2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Debian-12141c?style=for-the-badge&logo=debian&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AlmaLinux-12141c?style=for-the-badge&logo=almalinux&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-12141c?style=for-the-badge&logo=ubuntu&logoColor=9aa6b2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Windows_Server-12141c?style=for-the-badge&logo=windows&logoColor=9aa6b2" />&nbsp;&nbsp;
