@@ -60,16 +60,12 @@
 
 <div align="center">
 
-<a href="https://github.com/charbelmrad">
-  <img src="https://github-stats-extended.vercel.app/api?username=charbelmrad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2&icon_color=9aa6b2&count_private=true" width="48%" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/charbelmrad">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=charbelmrad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2" width="48%" alt="Top Languages" />
-</a>
+<img src="https://grs.vercel.app/api?username=charbelmrad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2&icon_color=9aa6b2&refresh=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charbelmrad&theme=tokyonight&hide_border=true&background=0D1117&ring=9aa6b2&fire=9aa6b2&refresh=true" width="48%" />
 
 <br><br>
 
-<img src="https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=charbelmrad&theme=tokyo-night&hide_border=true&bg_color=0D1117&title_color=9aa6b2&text_color=9aa6b2&line=9aa6b2&point=ffffff" width="97%" alt="Activity Graph" />
+<img src="https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=charbelmrad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9aa6b2&line=9aa6b2&point=ffffff&refresh=true" width="97%" />
 
 </div>
 
