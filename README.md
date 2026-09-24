@@ -65,7 +65,6 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/charbelmrad/charbelmrad/output/activity-graph.svg" width="97%" />
 
 </div>
 
