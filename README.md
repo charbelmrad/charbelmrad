@@ -60,12 +60,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=charbelmrad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2&icon_color=9aa6b2&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=charbelmrad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2&icon_color=9aa6b2" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=charbelmrad&theme=tokyonight&hide_border=true&background=0D1117&ring=9aa6b2&fire=9aa6b2" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charbelmrad&theme=tokyo-night&hide_border=true&bg_color=0D1117&title_color=9aa6b2&text_color=9aa6b2&line=9aa6b2&point=ffffff" width="97%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/get-profile-details?username=charbelmrad&theme=tokyonight" width="97%" />
 
 </div>
 
