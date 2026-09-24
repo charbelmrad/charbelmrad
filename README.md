@@ -60,12 +60,12 @@
 
 <div align="center">
 
-<img src="https://grs.vercel.app/api?username=charbelmrad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2&icon_color=9aa6b2&refresh=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charbelmrad&theme=tokyonight&hide_border=true&background=0D1117&ring=9aa6b2&fire=9aa6b2&refresh=true" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=charbelmrad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2&icon_color=9aa6b2&nocache=1" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=charbelmrad&theme=tokyonight&hide_border=true&background=0D1117&ring=9aa6b2&fire=9aa6b2&nocache=1" width="48%" />
 
 <br><br>
 
-<img src="https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=charbelmrad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9aa6b2&line=9aa6b2&point=ffffff&refresh=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charbelmrad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9aa6b2&line=9aa6b2&point=ffffff&nocache=1" width="97%" />
 
 </div>
 
