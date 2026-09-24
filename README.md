@@ -60,12 +60,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=charbelmrad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2&icon_color=9aa6b2" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=charbelmrad&theme=tokyonight&hide_border=true&background=0D1117&ring=9aa6b2&fire=9aa6b2" width="48%" />
+<a href="https://github.com/charbelmrad">
+  <img src="https://github-stats-extended.vercel.app/api?username=charbelmrad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2&icon_color=9aa6b2&count_private=true" width="48%" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/charbelmrad">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=charbelmrad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2" width="48%" alt="Top Languages" />
+</a>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/get-profile-details?username=charbelmrad&theme=tokyonight" width="97%" />
+<img src="https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=charbelmrad&theme=tokyo-night&hide_border=true&bg_color=0D1117&title_color=9aa6b2&text_color=9aa6b2&line=9aa6b2&point=ffffff" width="97%" alt="Activity Graph" />
 
 </div>
 
