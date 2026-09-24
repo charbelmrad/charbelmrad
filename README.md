@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=charbelmrad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2&icon_color=9aa6b2" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=charbelmrad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9aa6b2&icon_color=9aa6b2&cache_seconds=1800" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=charbelmrad&theme=tokyonight&hide_border=true&background=0D1117&ring=9aa6b2&fire=9aa6b2" width="48%" />
 
 <br><br>
