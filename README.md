@@ -65,7 +65,7 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charbelmrad&theme=github-compact&hide_border=true&bg_color=0D1117&color=9aa6b2&line=9aa6b2&point=ffffff" width="97%" />
+<img src="https://raw.githubusercontent.com/charbelmrad/charbelmrad/output/activity-graph.svg" width="97%" />
 
 </div>
 
